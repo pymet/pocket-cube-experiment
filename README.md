@@ -8,7 +8,7 @@
 
 According to [Wikipedia](https://en.wikipedia.org/wiki/Pocket_Cube#Permutations) there are 3674160 different pocket cube states.
 
-[![permutations](permutations.svg)](#readme)
+[![permutations](.github/permutations.svg)](#readme)
 
 This project demonstrates how to generate all the possible states of the pocket cube using Python and [cfly](https://github.com/pymet/cfly).
 
